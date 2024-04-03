@@ -24,7 +24,7 @@ body{
     width: 30px;
 }
 .Image-Burger{
-    float:inline-end;
+    float:right;
     height: 650px;
     width: 750px;
     margin-left: 30px;
@@ -166,7 +166,7 @@ h1{
   
     .Image-Burger {
       float: right;
-      height: 650px;
+      height: 684px;
       width: 50%;
       margin-left: 25px;
     }
@@ -200,7 +200,7 @@ h1{
   
     .Image-Burger {
       float: right;
-      height: 650px;
+      height: 684px;
       width: 750px;
       margin-left: 25px;
     }
